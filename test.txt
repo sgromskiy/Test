@@ -1,7 +1,4 @@
 Test
 Test2
-<<<<<<< HEAD
 Test33334
-=======
-Test4
->>>>>>> origin/test-tree
+
